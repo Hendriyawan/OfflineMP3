@@ -3,7 +3,7 @@ Android simple Offline MP3 player
 
 <img src="https://raw.githubusercontent.com/Hendriyawan/OfflineMP3/master/top_koplo_2019.jpg" height="360">
 
-## Fiture
+## Feature
 - Simple beutiful design
 - Notification controller
 - Listen in background mode
